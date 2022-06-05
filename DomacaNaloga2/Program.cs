@@ -28,7 +28,7 @@ namespace DomacaNaloga2
         {
             int[] tabela = new int[10];
             int y = 0;
-            int x = 5;
+            int x = 10000;
             do
             {                
                 int stevilo = Prastevila(x);
